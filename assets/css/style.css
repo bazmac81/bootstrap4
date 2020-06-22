@@ -1,0 +1,27 @@
+/* Importing fonts from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.alert-container {
+
+}
+
+.quotes-container {
+
+}
+
+.features-container {
+
+}
+
+.callout-container {
+    height: 100vh;
+    background: url(assets/img/whisky.jpg) no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
