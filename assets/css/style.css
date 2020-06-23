@@ -97,7 +97,7 @@ body {
     font-weight: bold;
 }
 
-/* Page Dividers */
+/* Page Headers */
 
 .page-header {
     margin-bottom: 0;
@@ -109,7 +109,7 @@ body {
     margin-top:0;
 }
 
-.quotes .page-header{
+.page-header--spaced{
     margin-bottom: 25px;
 }
 
@@ -200,4 +200,11 @@ body {
     font-weight: bold;
     margin-top: 10px;
     color: #f05f40;
+}
+
+/* Table */
+
+.tableheader {
+    background-color: #f05f40;
+    color: white;
 }
